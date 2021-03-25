@@ -1,0 +1,47 @@
+﻿body {
+	font-family: 微軟正黑體;
+	font-size: 10pt;
+	color: #FFFFDE;
+	background-color: #000000;
+}
+a:visited {
+	font-family: 微軟正黑體;
+	font-size: 10pt;
+	color: #FFFFDE;
+}
+
+a:link {
+	font-family: 微軟正黑體;
+	font-size: 10pt;
+	color: #FFFFDE;
+}
+
+a:active {
+	font-family: 微軟正黑體;
+	font-size: 10pt;
+	color: #FFFF00;
+}
+a:hover {
+	font-family: 微軟正黑體;
+	font-size: 10pt;
+	color: #FF9900;
+}
+
+.style1 {
+	text-align: center;
+}
+.style2 {
+	border-style: solid;
+	border-width: 1px;
+}
+.style3 {
+	border-width: 0;
+	text-align: left;
+}
+.style4 {
+	margin-left: 40px;
+}
+.style5 {
+	border-width: 0;
+}
+</style>
